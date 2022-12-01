@@ -1,7 +1,7 @@
 # IntroParcoursGraphe
 Minicours de découverte au parcours de graphe par M.BOISSON
 
-## Algorithme génétique pour la détermination d'un plus court chemin de parcours d'une liste de points / villes
+### Algorithme génétique pour la détermination d'un plus court chemin de parcours d'une liste de points / villes
 
 On considère le "score" comme la somme des distances entre ville sur le parcours (la liste de villes).
 
